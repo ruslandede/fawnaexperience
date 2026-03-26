@@ -6,7 +6,7 @@ IT Business Analyst & QA
 
 ## ⏳ Duration
 
-Jan 2025 – Mar 2025
+Mar – Apr 2026
 
 ## 🏢 Project Type
 
