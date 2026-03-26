@@ -1,165 +1,63 @@
-# 📊 Leave Management System Improvement (Portfolio Project)
-
-## 👤 Role
-
-IT Business Analyst & QA
-
-## ⏳ Duration
-
-Mar – Apr 2026
-
-## 🏢 Project Type
-
-Simulated Project (Portfolio)
+# 🐾 Fawna Experience  
+Pet Service Booking Platform
 
 ---
 
 ## 📌 Overview
+Fawna Experience is a pet service platform designed to connect pet owners with various professional pet care services such as grooming, walking, sitting, and therapy.
 
-This project focuses on improving the employee leave request process by transforming a manual workflow into a digital system. The goal was to increase efficiency, reduce human error, and provide real-time tracking for both employees and HR.
+Previously, pet services were typically booked manually via chat or social media, leading to unstructured bookings, scheduling conflicts, and lack of service tracking.
 
----
-
-## 🚨 Problem Statement
-
-The existing leave request process relied heavily on manual handling using Excel and email communication.
-
-### Key Issues:
-
-* Delayed approval due to back-and-forth email communication
-* Lack of visibility on request status
-* High risk of data duplication and loss
-* Time-consuming manual input by HR
+The system is designed to streamline service booking, improve scheduling management, and enhance overall customer experience.
 
 ---
 
-## 🔍 Analysis
-
-To understand the problem, I conducted a simulated stakeholder analysis involving:
-
-* Employees (request submitter)
-* Managers (approvers)
-* HR team (administrators)
-
-### Findings:
-
-* No centralized system for tracking leave requests
-* Approval process lacked standardization
-* Manual data entry increased operational inefficiency
+## 🎯 Key Features
+- 🛁 Grooming & Spa Booking  
+- 🐕 Pet Walker Service  
+- 🧑‍⚕️ Pet Handler & Pet Sitter  
+- 💆 Pet Therapy (Massage / Acupuncture)  
+- 🧠 Pet Whisperer (Communication Service)  
+- 📅 Service Scheduling & Booking  
+- 📊 Booking & Service Tracking  
 
 ---
 
-## 🔄 Current Process (As-Is)
+## 📂 Project Structure
 
-The leave request process was handled manually:
-
-1. Employee fills out Excel form
-2. Sends request via email
-3. Manager reviews and responds manually
-4. HR records data into internal system
-
----
-
-## 💡 Proposed Solution
-
-A web-based Leave Management System was designed to streamline the workflow.
-
-### Key Features:
-
-* Online leave request submission
-* Automated email/notification system
-* Manager approval dashboard
-* Real-time status tracking
-* Centralized employee leave database
+```
+fawna-experience/
+│
+├── README.md
+├── docs/
+│   ├── BRD_Fawna_Experience.pdf
+│   ├── FSD_Fawna_Experience.pdf
+│   ├── BPMN_Diagram.png
+│   └── UAT_Scenario.xlsx
+│
+├── design/
+│   └── UI_Mockup.png
+│
+└── src/ (optional)
+```
 
 ---
 
-## 🔁 Improved Process (To-Be)
-
-The new system automates the workflow:
-
-1. Employee submits request via system
-2. System sends notification to manager
-3. Manager approves/rejects via dashboard
-4. System updates status automatically
-5. HR monitors through centralized dashboard
+## 📄 Documentation
+Available in `/docs` and `/design` folders
 
 ---
 
-## 📄 Documentation (Highlights)
+## 🧑‍💻 My Role
+As an IT Business Analyst, I was responsible for:
 
-### 🧾 Business Requirements
+- Requirements gathering based on service needs  
+- Business process mapping (BPMN)  
+- BRD / FSD documentation  
+- Defining booking and scheduling workflows  
+- Supporting User Acceptance Testing (UAT)  
 
-* The system must allow employees to submit leave requests online
-* The system must notify managers upon submission
-* The system must store all leave records in a centralized database
-
-### ⚙️ Functional Requirements
-
-* User authentication (Employee, Manager, HR)
-* Leave request form submission
-* Approval/rejection functionality
-* Dashboard for monitoring
-
-### 🧩 User Story Example
-
-**As an employee**, I want to submit a leave request online so that I don’t need to send manual emails.
-
-### ✅ Acceptance Criteria
-
-* User can submit leave request form
-* Manager receives notification within 1 minute
-* Status is updated in real-time
-
----
-
-## 🧪 Testing (QA Involvement)
-
-### Scope:
-
-* Functional Testing
-* User Acceptance Testing (UAT)
-
-### Example Test Case:
-
-| Test Scenario        | Expected Result              |
-| -------------------- | ---------------------------- |
-| Submit leave request | Request successfully created |
-| Approve request      | Status updated to "Approved" |
-| Reject request       | Status updated to "Rejected" |
-
-### Bug Handling:
-
-* Identified issues in notification delay
-* Collaborated with developer to resolve API response timing
-
----
-
-## 📊 Result / Impact
-
-* Reduced manual processing by approximately 50%
-* Improved approval time from 2–3 days to same-day response
-* Increased transparency for employees and HR
-* Minimized data duplication issues
-
----
-
-## 💭 Lessons Learned
-
-* Early stakeholder alignment is crucial for defining clear requirements
-* Process visualization (BPMN) helps identify inefficiencies faster
-* Collaboration between BA, QA, and developers improves delivery quality
-
----
-
-## 🛠️ Tools Used
-
-* Draw.io (Process Mapping)
-* Google Docs (Documentation)
-* Excel (Data Simulation)
-
----
-
-## 📎 Notes
-
-This is a simulated project created as part of my portfolio to demonstrate Business Analysis and QA capabilities.
+Additionally:
+- Created test scenarios  
+- Identified inefficiencies in manual service booking  
+- Ensured alignment between user needs and system solution  
