@@ -29,16 +29,19 @@ The system is designed to streamline service booking, improve scheduling managem
 fawna-experience/
 │
 ├── README.md
-├── docs/
-│   ├── BRD_Fawna_Experience.pdf
-│   ├── FSD_Fawna_Experience.pdf
-│   ├── BPMN_Diagram.png
-│   └── UAT_Scenario.xlsx
+├── System Analysis docs/
+│   ├── FSD Fawna Experience
+│   ├── Flow_Diagram.png
 │
-├── design/
-│   └── UI_Mockup.png
+├── UI/UX design/
+│   ├── Wireframe
+│   ├── UI Mockup
 │
-└── src/ (optional)
+├── 🧪 Quality Assurance
+│   ├── UAT (Test Scenario & Test Case)
+│   ├── Bug Report
+│
+└── src/
 ```
 
 ---
@@ -49,15 +52,19 @@ Available in `/docs` and `/design` folders
 ---
 
 ## My Role
-As an IT Business Analyst, I was responsible for:
+As an IT Business Analyst with UI/UX & QA experience, I contributed across the end-to-end product lifecycle:
 
-- Requirements gathering based on service needs  
-- Business process mapping (BPMN)  
-- BRD / FSD documentation  
-- Defining booking and scheduling workflows  
-- Supporting User Acceptance Testing (UAT)  
+### 📊 System Analysis
+- Gathered and analyzed business requirements  
+- Created BPMN diagrams  
+- Produced BRD & FSD documentation  
 
-Additionally:
-- Created test scenarios  
-- Identified inefficiencies in manual service booking  
-- Ensured alignment between user needs and system solution  
+### 🎨 UI/UX Design
+- Designed user flows and wireframes  
+- Created UI mockups based on user needs  
+- Ensured usability and user-centered design  
+
+### 🧪 Quality Assurance
+- Developed test scenarios and test cases  
+- Conducted User Acceptance Testing (UAT)  
+- Identified and documented bugs 
