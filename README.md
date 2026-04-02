@@ -1,9 +1,9 @@
-# 🐾 Fawna Experience  
+# Fawna Experience  
 Pet Service Booking Platform
 
 ---
 
-## 📌 Overview
+## Overview
 Fawna Experience is a pet service platform designed to connect pet owners with various professional pet care services such as grooming, walking, sitting, and therapy.
 
 Previously, pet services were typically booked manually via chat or social media, leading to unstructured bookings, scheduling conflicts, and lack of service tracking.
@@ -12,7 +12,7 @@ The system is designed to streamline service booking, improve scheduling managem
 
 ---
 
-## 🎯 Key Features
+## Key Features
 - 🛁 Grooming & Spa Booking  
 - 🐕 Pet Walker Service  
 - 🧑‍⚕️ Pet Handler & Pet Sitter  
@@ -23,7 +23,7 @@ The system is designed to streamline service booking, improve scheduling managem
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 fawna-experience/
@@ -43,12 +43,12 @@ fawna-experience/
 
 ---
 
-## 📄 Documentation
+## Documentation
 Available in `/docs` and `/design` folders
 
 ---
 
-## 🧑‍💻 My Role
+## My Role
 As an IT Business Analyst, I was responsible for:
 
 - Requirements gathering based on service needs  
