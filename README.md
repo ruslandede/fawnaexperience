@@ -33,10 +33,10 @@ fawna-experience/
 │   ├── FSD Fawna Experience
 │   ├── Flow_Diagram.png
 │
-├── UI/UX design/
+├── Design/
 │   ├── UI Mockup
 │
-├── 🧪 Quality Assurance
+├── Quality Assurance
 │   ├── UAT (Test Scenario & Test Case)
 │   ├── Bug Report
 │
