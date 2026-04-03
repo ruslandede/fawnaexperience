@@ -34,7 +34,6 @@ fawna-experience/
 │   ├── Flow_Diagram.png
 │
 ├── UI/UX design/
-│   ├── Wireframe
 │   ├── UI Mockup
 │
 ├── 🧪 Quality Assurance
