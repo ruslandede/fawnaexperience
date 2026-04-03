@@ -29,14 +29,14 @@ The system is designed to streamline service booking, improve scheduling managem
 fawna-experience/
 │
 ├── README.md
-├── System Analysis docs/
+├── docs/
 │   ├── FSD Fawna Experience
 │   ├── Flow_Diagram.png
 │
-├── Design/
+├── design/
 │   ├── UI Mockup
 │
-├── Quality Assurance
+├── testing
 │   ├── UAT (Test Scenario & Test Case)
 │   ├── Bug Report
 │
